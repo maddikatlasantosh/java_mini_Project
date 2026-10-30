@@ -1,0 +1,18 @@
+﻿Name: Santosh Maddikatla
+Roll No: 2646
+Project Title: Campus Hub 
+
+GitHub Repository:
+https://github.com/maddikatlasantosh/java_mini_Project.git
+
+Code:
+https://github.com/maddikatlasantosh/java_mini_Project/tree/main/Campus%20Student%20Hub%20(Code)
+
+Report:
+https://github.com/maddikatlasantosh/java_mini_Project/blob/main/Campus_Hub_Mini_Project_Report.pdf
+
+Presentation:
+https://github.com/maddikatlasantosh/java_mini_Project/blob/main/Campus_Hub_ppt.pptx
+
+Output:
+https://github.com/maddikatlasantosh/java_mini_Project/tree/main/Screenshots
